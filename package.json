@@ -1,0 +1,23 @@
+{
+  "name": "@sedona-cms/sedona-cms",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedona-cms/sedona-cms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sedona-cms/sedona-cms/issues"
+  },
+  "homepage": "https://github.com/sedona-cms/sedona-cms#readme",
+  "dependencies": {
+    "@sedona-cms/core": "^1.0.5",
+    "nuxt": "^2.12.2"
+  }
+}
